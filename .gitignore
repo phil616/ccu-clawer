@@ -1,0 +1,10 @@
+/__pycache__
+**/__pycache__
+*.jpg
+*.png
+*.webp
+*.jpeg
+*.log
+*.sqlite3
+*.pyc
+/.idea
